@@ -1,3 +1,5 @@
+This is unfinished and doesn't warrant a second look. Team members decided they don't want to continue and I had to switch from backend parts and AI integration to doing basic frontend bolierplate and while I made some progress it's clear that I'm not going to finish this in time for submission. I'll continue building in slow mode, I still like the idea. And want to train drones, looking into costs and potential sponsors.
+
 Ideally I'd water water bottles delivered by actual automated drones but I have no time to train them and no budget to buy hardware so I'm focusing on scaffloding for now.
 
 ![image](https://github.com/user-attachments/assets/e3a0dcbb-2e38-47fd-ab4e-a6df46ed3025)
